@@ -1,4 +1,4 @@
-# 🎬 Motion Website
+# 🎬 Significo
 
 A modern, high-performance website featuring smooth animations, scroll-triggered effects, and an immersive user experience. Built with cutting-edge web technologies and animation libraries.
 
@@ -59,8 +59,8 @@ A modern, high-performance website featuring smooth animations, scroll-triggered
 
 1. Clone the repository
 ```bash
-git clone https://github.com/TheNeovimmer/motion-website.git
-cd motion-website
+git clone https://github.com/TheNeovimmer/significo.git
+cd significo
 ```
 
 2. Install dependencies
@@ -91,7 +91,7 @@ npm run preview
 ## 📁 Project Structure
 
 ```
-motion-website/
+significo/
 ├── public/              # Static assets
 ├── src/
 │   ├── assets/         # Images, fonts, videos
